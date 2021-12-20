@@ -14,15 +14,15 @@ To write a program to find the Gaussian Elimination with partial pivoting of a m
 2.Input the values.
 
 3.Display the program.
- 
+
 4.Stop the program. 
 
 ## Program:
 ```
 /*
 Program to find the Gaussian Elimination with partial pivoting of a matrix.
-Developed by: 
-RegisterNumber: 
+Developed by:A.Ruchitha Reddy 
+RegisterNumber:21005032 
 */
 ```
 import numpy as np
