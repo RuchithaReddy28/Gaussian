@@ -24,7 +24,7 @@ Program to find the Gaussian Elimination with partial pivoting of a matrix.
 Developed by:A.Ruchitha Reddy 
 RegisterNumber:21005032 
 */
-```
+```python
 import numpy as np
 import sys
 n = int(input())
